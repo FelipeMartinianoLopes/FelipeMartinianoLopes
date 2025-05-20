@@ -1,12 +1,22 @@
 # Olá,sou Felipe Paixão! 👋  
 
+### 🎯Um Futuro Desenvolvedor com Base em Infraestrutura de TI 
+
+Aqui estarei fazendo minha apresentação a vocês!
+
+Da infraestrutura para o desenvolvimento: construindo pontes entre hardware e software.
+
+### 🎓 Formação em TI  
+- **Curso Profissionalizante em Infraestrutura de TI** (Unicesumar, 1 ano)  
+  - Redes de computadores, virtualização, sistemas operacionais (Windows/Linux), noções de cloud e segurança.  
+
 ### 🚀 Estudante de Programação em Transição de Carreira  
 
  Futuro Desenvolvedor C++
 
 🔹 Atualmente aprendendo:  
 - **Lógica de Programação** (JavaScript) (C++)  
-- **Blueprints** (Alura)  
+- **Blueprints**  
 - **Git & GitHub**  
 
 🔹 Objetivos:  
@@ -14,7 +24,12 @@
 - Me desenvolver na linguagem C++ e blueprints para trabalhar com desenvolvimento de games!
 ---
 
-## 🛠️ Habilidades em Desenvolvimento  
+## 🛠️ Habilidades em Desenvolvimento 
+
+**Infraestrutura & DevOps (Básico):**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Virtualização](https://img.shields.io/badge/Virtualização-0E83CD?style=flat&logo=virtualbox&logoColor=white)  
 
 **Linguagens:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -29,7 +44,7 @@
 
 ---
 
-## 📚 Meus Projetos de Estudo  
+## 📚 Meus Projetos de Estudo  na area da Programação
 
 Aqui estão alguns repositórios que criei enquanto aprendo:  
 1. [Desafios de Logica de programação](https://github.com/FelipeMartinianoLopes/Desafio-de-aprendizado-Praticando-logica-de-programacao) - Projetos básicos de lógica em JS .  
