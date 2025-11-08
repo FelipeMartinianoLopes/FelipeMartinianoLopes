@@ -52,14 +52,6 @@ E assim sigo, construindo meu caminho no desenvolvimento de software.
 
 ---
 
-## 📚 Meus Projetos de Estudo  na area da Programação
-
-Aqui estão alguns repositórios que criei enquanto aprendo:  
-1. [Desafios de Logica de programação](https://github.com/FelipeMartinianoLopes/Desafio-de-aprendizado-Praticando-logica-de-programacao) - Projetos básicos de lógica em JS .  
-  
-
----
-
 ## 📊 Metas de 2025  
 
 - [X] Completar curso de Lógica de programação  
