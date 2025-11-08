@@ -1,27 +1,33 @@
-# Olá,sou Felipe Paixão! 👋  
+# Olá, me chamo Felipe Paixão! 👋  
 
-### 🎯Um Futuro Desenvolvedor com Base em Infraestrutura de TI 
+### 🎯 Sou estudante de Sistema de Informação e um Futuro Desenvolvedor Back-end 🎯 ###
 
 Aqui estarei fazendo minha apresentação a vocês!
 
-Da infraestrutura para o desenvolvimento: construindo pontes entre hardware e software.
+Tudo começou em um curso profissionalizante de infraestrutura, mas assim que conheci o mundo da programação 
+não pensei duas vezes para mudar e ir rumo ao desenvolvimento.
+Meu primeiro curso foi na plataforma ALura, com a introdução a logica de programção. Lá fiz meus primeiros
+projetos,tudo em JS ( todos postados aqui ), como sou um amante de jogos procurei saber mais sobre a programação
+em jogos e assim cheguei no C++. Tambem na Alaura fiz a formação em C++, do zero ao "avançado", montando um projeto
+de leilão ( Infelizmente não postei ). Por fim no dia 01/08/2025 iniciel minha graduação em Sistema de informação
+na faculdade Impacta Tecnologia.
 
-### 🎓 Formação em TI  
+E assim sigo, construindo meu caminho no desenvolvimento de software.
+
+### 🚀 Estudante de Programação, futuro Desenvolvedor C++ 
+
+### 🎓 Formação  
 - **Curso Profissionalizante em Infraestrutura de TI** (Unicesumar, 1 ano)  
-  - Redes de computadores, virtualização, sistemas operacionais (Windows/Linux), noções de cloud e segurança.  
+  - Redes de computadores, virtualização, sistemas operacionais (Windows/Linux), noções de cloud e segurança.
+  - Lógica de Programação (JavaScript) (C++)  
 
-### 🚀 Estudante de Programação em Transição de Carreira  
 
- Futuro Desenvolvedor C++
+🔹Atualmente cursando Sistema de informação ( Impacta Tecnoliga )  
 
-🔹 Atualmente aprendendo:  
-- **Lógica de Programação** (JavaScript) (C++)  
-- **Blueprints**  
-- **Git & GitHub**  
-
-🔹 Objetivos:  
-- Buscando oportunidades na área de tecnologia!  
-- Me desenvolver na linguagem C++ e blueprints para trabalhar com desenvolvimento de games!
+### 🎯 Objetivos:  
+- Buscando oportunidades como Dev Back-end;  
+- Me desenvolver na linguagem C++ e POO!
+- Trabalhar em projetos reias para por em pratica tudo que aprendi
 ---
 
 ## 🛠️ Habilidades em Desenvolvimento 
@@ -33,14 +39,16 @@ Da infraestrutura para o desenvolvimento: construindo pontes entre hardware e so
 
 **Linguagens:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Ferramentas:**  
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 **Estudando agora:**  
-![Alura](https://img.shields.io/badge/Alura-00A1E4?style=flat&logo=alura&logoColor=white)  
+![Alura](https://img.shields.io/badge/Alura-00A1E4?style=flat&logo=alura&logoColor=white)
+![Impacta Tecnologia](https://img.shields.io/badge/Impacta_Tecnologia-008CFF?style=flat)
 
 ---
 
@@ -55,7 +63,7 @@ Aqui estão alguns repositórios que criei enquanto aprendo:
 ## 📊 Metas de 2025  
 
 - [X] Completar curso de Lógica de programação  
-- [ ] Finalizar módulo de C++  
+- [X] Finalizar módulo de C++  
 - [ ] Contribuir em um projeto open-source  
 
 ---
