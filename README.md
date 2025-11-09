@@ -25,7 +25,7 @@ E assim sigo, construindo meu caminho no desenvolvimento de software.
 🔹Atualmente cursando Sistema de informação ( Impacta Tecnoliga )  
 
 ### 🎯 Objetivos:  
-- Buscando oportunidades como Dev Back-end;  
+- Conquista oportunidades como Dev Back-end;  
 - Me desenvolver na linguagem C++ e POO!
 - Trabalhar em projetos reias para por em pratica tudo que aprendi
 ---
